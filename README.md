@@ -84,9 +84,9 @@ Desenvolvo projetos voltados à análise de dados, automação e construção de
 ## `04. GitHub em números`
 
 <div align="center">
-  <a href="https://github.com/joaopedroramiro321-source?tab=repositories"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/stats.svg" alt="Estatísticas de repositórios públicos e contribuições"/></a>
-  <a href="https://github.com/joaopedroramiro321-source?tab=repositories"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/languages.svg" alt="Top Languages — participação em bytes"/></a>
-  <a href="https://github.com/joaopedroramiro321-source?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/streak.svg" alt="Streak — sequências de contribuições"/></a>
+  <a href="https://github.com/joaopedroramiro321-source?tab=repositories"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/stats.svg?v=2" alt="Estatísticas de repositórios públicos e contribuições"/></a>
+  <a href="https://github.com/joaopedroramiro321-source?tab=repositories"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/languages.svg?v=2" alt="Top Languages — participação em bytes"/></a>
+  <a href="https://github.com/joaopedroramiro321-source?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/streak.svg?v=2" alt="Streak — sequências de contribuições"/></a>
 </div>
 
 ---
@@ -94,7 +94,7 @@ Desenvolvo projetos voltados à análise de dados, automação e construção de
 ## `05. Troféus`
 
 <div align="center">
-  <a href="https://github.com/joaopedroramiro321-source?tab=repositories"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/trophies.svg" alt="Marcos reais do perfil: projetos, estrelas e dias de atividade"/></a>
+  <a href="https://github.com/joaopedroramiro321-source?tab=repositories"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/trophies.svg?v=2" alt="Marcos reais do perfil: projetos, estrelas e dias de atividade"/></a>
 </div>
 
 <sub>Painel próprio de marcos públicos; não representa os Achievements oficiais do GitHub.</sub>
@@ -104,7 +104,7 @@ Desenvolvo projetos voltados à análise de dados, automação e construção de
 ## `06. Atividade`
 
 <div align="center">
-  <a href="https://github.com/joaopedroramiro321-source?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/activity.svg" alt="Contribuições diárias dos últimos 90 dias"/></a>
+  <a href="https://github.com/joaopedroramiro321-source?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/activity.svg?v=2" alt="Contribuições diárias dos últimos 90 dias"/></a>
 </div>
 
 ---
@@ -112,7 +112,7 @@ Desenvolvo projetos voltados à análise de dados, automação e construção de
 ## `07. Contribuições`
 
 <div align="center">
-  <a href="https://github.com/joaopedroramiro321-source?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/snake.svg" alt="Snake animada com as contribuições de João Pedro"/></a>
+  <a href="https://github.com/joaopedroramiro321-source?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/joaopedroramiro321-source/joaopedroramiro321-source/main/assets/snake.svg?v=2" alt="Snake animada com as contribuições de João Pedro"/></a>
 </div>
 
 <sub>Painéis e Snake atualizados diariamente pelo GitHub Actions.</sub>
