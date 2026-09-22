@@ -1,12 +1,12 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:02040A,45:071B33,100:0077FF&text=Jo%C3%A3o%20Pedro%20Ramiro&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Cientista%20de%20Dados%20Jr&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner de João Pedro Ramiro"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:02040A,45:071B33,100:0077FF&text=Jo%C3%A3o%20Pedro%20Ramiro&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Estudante%20de%20Ci%C3%AAncia%20de%20Dados&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner de João Pedro Ramiro"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://github.com/joaopedroramiro321-source?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Cientista+de+Dados+Jr;Python+%E2%80%A2+SQL+%E2%80%A2+Pandas+%E2%80%A2+Requests;An%C3%A1lise+de+dados+e+automa%C3%A7%C3%A3o" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Python+%E2%80%A2+SQL+%E2%80%A2+Pandas+%E2%80%A2+Requests;An%C3%A1lise+de+dados+e+automa%C3%A7%C3%A3o" alt="Typing animation"/>
   </a>
 </div>
 
@@ -17,13 +17,13 @@
 ```python
 joao_pedro = {
     "nome": "João Pedro Ramiro de Souza",
-    "cargo": "Cientista de Dados Jr",
+    "perfil": "Estudante de Ciência de Dados",
     "foco": ["Análise de dados", "Automação"],
     "tecnologias": ["Python", "SQL", "Pandas", "Requests"]
 }
 ```
 
-Desenvolvo projetos voltados à análise de dados, automação e construção de soluções com Python e SQL. Este perfil reúne parte da minha evolução prática, com aplicações que vão de sistemas com banco de dados a análises automatizadas.
+Sou estudante de Ciência de Dados e coloco meus estudos em prática com Python, SQL, Pandas e Requests. Aqui reúno projetos de análise de dados, automação e sistemas com banco de dados, registrando o que venho aprendendo e construindo.
 
 ---
 
