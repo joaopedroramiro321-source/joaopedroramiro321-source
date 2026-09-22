@@ -15,7 +15,7 @@ markdown
 
 ## `01. Sobre mim`
 
-```python
+python
 joao_pedro = {
     "nome": "João Pedro Ramiro de Souza",
     "cargo": "Cientista de Dados Jr",
