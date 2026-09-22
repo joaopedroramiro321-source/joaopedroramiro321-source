@@ -1,18 +1,19 @@
-# Aplicar a correção
+# Manutenção do perfil
 
-Destino: https://github.com/joaopedroramiro321-source/joaopedroramiro321-source
+A configuração foi concluída em 22/09/2026. O README e as seis imagens em `assets/` estão publicados. A primeira execução do workflow terminou com sucesso.
 
-A integração recusou a gravação (HTTP 403). Nenhum arquivo remoto foi alterado.
+## Atualização
 
-1. Adicione `scripts/update-profile.mjs` e `.github/workflows/profile.yml` à branch `main`, preservando as pastas. O envio inicia a geração das imagens.
-2. Em **Actions → Atualizar painéis do perfil**, aguarde a execução terminar com sucesso. Também é possível iniciar por **Run workflow**.
-3. Confirme que a pasta `assets` contém `stats.svg`, `languages.svg`, `streak.svg`, `trophies.svg`, `activity.svg` e `snake.svg`.
-4. Substitua o `README.md` pelo arquivo deste pacote. Faça isso depois da geração, para evitar imagens temporariamente quebradas.
+O workflow `.github/workflows/profile.yml` atualiza os painéis e a Snake diariamente às 06:23 UTC (03:23 de Brasília). Agendamentos do GitHub podem sofrer atrasos. Para atualizar manualmente, abra Actions → Atualizar painéis do perfil → Run workflow.
 
-O workflow usa o `GITHUB_TOKEN` automático do repositório; não requer criar um token pessoal. A permissão `contents: write` permite salvar as imagens neste repositório. Se uma política da conta impedir Actions ou gravação pelo workflow, a execução indicará o bloqueio.
+O gerador usa o `GITHUB_TOKEN` automático do repositório. Não é necessário um token pessoal. Os arquivos SVG permanecem publicados caso uma atualização falhe; consulte o histórico do Actions para diagnosticar falhas.
 
-Os painéis usam dados públicos e permanecem salvos se uma atualização falhar. O Streak considera a janela de 12 meses e dias em UTC; Top Languages mede bytes, não domínio técnico. Troféus é um painel próprio de marcos reais, identificado como tal.
+## Como interpretar os painéis
 
-Banner, typing animation e badges continuam usando os serviços externos que carregaram durante a inspeção. Links de projetos têm texto clicável independente das imagens.
+- Estatísticas: repositórios públicos próprios, sem forks, e contribuições dos últimos 12 meses.
+- Top Languages: participação em bytes, não proficiência.
+- Streak: sequências na janela de 12 meses, com dias em UTC.
+- Troféus: painel próprio de marcos públicos, não os Achievements oficiais do GitHub.
+- Activity Graph: contribuições diárias nos últimos 90 dias.
 
-Validação realizada: os seis repositórios existem e são públicos; a sintaxe do gerador foi verificada localmente. A execução real do workflow e a renderização final ainda dependem da publicação autorizada pelo GitHub.
+Banner, typing animation e badges usam serviços externos. Os projetos também têm links de texto independentes das imagens.
