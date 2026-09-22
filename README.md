@@ -1,4 +1,3 @@
-markdown
 <!-- Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:02040A,45:071B33,100:0077FF&text=Jo%C3%A3o%20Pedro%20Ramiro&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Cientista%20de%20Dados%20Jr&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner de João Pedro Ramiro"/>
